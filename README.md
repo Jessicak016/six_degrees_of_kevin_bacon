@@ -13,6 +13,14 @@ Pyton packages used:
 - json
 - pydot
 - time
+- itertools 
 
 Package:
 - GraphViz installed through macports 
+
+In this project, I wrote four functions to accomplish the task: 
+    step1_fetch_top_100_movies()
+    step2_extract_movie_info()
+    step3_get_metadata_using_omdb()
+    step4_select_top5_actors()
+The code is found in mycode.py
