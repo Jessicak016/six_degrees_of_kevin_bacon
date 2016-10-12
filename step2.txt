@@ -1,0 +1,101 @@
+IMDB_ID	Rank	Title
+tt0111161	1	The Shawshank Redemption
+tt0468569	2	The Dark Knight
+tt1375666	3	Inception
+tt0137523	4	Fight Club
+tt0110912	5	Pulp Fiction
+tt0109830	6	Forrest Gump
+tt0120737	7	The Lord of the Rings: The Fellowship of the Ring
+tt0133093	8	The Matrix
+tt0167260	9	The Lord of the Rings: The Return of the King
+tt0068646	10	The Godfather
+tt1345836	11	The Dark Knight Rises
+tt0167261	12	The Lord of the Rings: The Two Towers
+tt0944947	13	Game of Thrones
+tt0114369	14	Se7en
+tt0848228	15	The Avengers
+tt0172495	16	Gladiator
+tt0372784	17	Batman Begins
+tt1853728	18	Django Unchained
+tt0816692	19	Interstellar
+tt0076759	20	Star Wars: Episode IV - A New Hope
+tt0903747	21	Breaking Bad
+tt0102926	22	The Silence of the Lambs
+tt0361748	23	Inglourious Basterds
+tt0499549	24	Avatar
+tt0120815	25	Saving Private Ryan
+tt0407887	26	The Departed
+tt0108052	27	Schindler's List
+tt0209144	28	Memento
+tt0482571	29	The Prestige
+tt0080684	30	Star Wars: Episode V - The Empire Strikes Back
+tt0169547	31	American Beauty
+tt0325980	32	Pirates of the Caribbean: The Curse of the Black Pearl
+tt0120338	33	Titanic
+tt0434409	34	V for Vendetta
+tt0071562	35	The Godfather: Part II
+tt1130884	36	Shutter Island
+tt0993846	37	The Wolf of Wall Street
+tt0120689	38	The Green Mile
+tt0120586	39	American History X
+tt0103064	40	Terminator 2: Judgment Day
+tt0114814	41	The Usual Suspects
+tt0112573	42	Braveheart
+tt0266697	43	Kill Bill: Vol. 1
+tt0088763	44	Back to the Future
+tt0099685	45	Goodfellas
+tt0110413	46	Léon: The Professional
+tt0910970	47	WALL·E
+tt0167404	48	The Sixth Sense
+tt1392170	49	The Hunger Games
+tt0371746	50	Iron Man
+tt0266543	51	Finding Nemo
+tt2015381	52	Guardians of the Galaxy
+tt0086190	53	Star Wars: Episode VI - Return of the Jedi
+tt0073486	54	One Flew Over the Cuckoo's Nest
+tt0120382	55	The Truman Show
+tt1049413	56	Up
+tt0338013	57	Eternal Sunshine of the Spotless Mind
+tt0105236	58	Reservoir Dogs
+tt0082971	59	Raiders of the Lost Ark
+tt0401792	60	Sin City
+tt0110357	61	The Lion King
+tt1010048	62	Slumdog Millionaire
+tt1520211	63	The Walking Dead
+tt0903624	64	The Hobbit: An Unexpected Journey
+tt0114709	65	Toy Story
+tt0107290	66	Jurassic Park
+tt0477348	67	No Country for Old Men
+tt0268978	68	A Beautiful Mind
+tt0081505	69	The Shining
+tt0119217	70	Good Will Hunting
+tt0416449	71	300
+tt0088247	72	The Terminator
+tt0208092	73	Snatch
+tt0095016	74	Die Hard
+tt0198781	75	Monsters, Inc.
+tt1454468	76	Gravity
+tt1119646	77	The Hangover
+tt0246578	78	Donnie Darko
+tt2488496	79	Star Wars: The Force Awakens
+tt2267998	80	Gone Girl
+tt0180093	81	Requiem for a Dream
+tt0078748	82	Alien
+tt1392190	83	Mad Max: Fury Road
+tt1205489	84	Gran Torino
+tt0066921	85	A Clockwork Orange
+tt1300854	86	Iron Man Three
+tt0770828	87	Man of Steel
+tt0947798	88	Black Swan
+tt0435761	89	Toy Story 3
+tt1201607	90	Harry Potter and the Deathly Hallows: Part 2
+tt0145487	91	Spider-Man
+tt0118715	92	The Big Lebowski
+tt0086250	93	Scarface
+tt0800369	94	Thor
+tt0211915	95	Amélie
+tt0120915	96	Star Wars: Episode I - The Phantom Menace
+tt0317248	97	City of God
+tt1045658	98	Silver Linings Playbook
+tt0898266	99	The Big Bang Theory
+tt0264464	100	Catch Me If You Can
