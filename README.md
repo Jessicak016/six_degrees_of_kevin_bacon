@@ -23,4 +23,7 @@ In this project, I wrote four functions to accomplish the task:
     step2_extract_movie_info()
     step3_get_metadata_using_omdb()
     step4_select_top5_actors()
+Each function produces a file for easier illustration of the process of the project. 
 The code is found in mycode.py. 
+
+
